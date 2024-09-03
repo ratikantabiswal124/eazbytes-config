@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:  # Changed to camelCase for consistency
+    name: "Ananya - QA Lead"
+    email: "ananya@eazybank.com"
+  onCallSupport:  # Changed to camelCase for consistency
+    - "7978027270"
+    - "(555) 523-1345"
